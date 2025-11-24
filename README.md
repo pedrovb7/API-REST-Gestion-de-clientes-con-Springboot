@@ -1,2 +1,2 @@
-# API-Gestion-de-clientes-con-Springboot
-API Gestion de clientes con Springboot
+# API-REST-Gestion-de-clientes-con-Springboot
+API REST de Gestion de clientes con Springboot
